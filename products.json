@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1700000000001,
+    "name": "Premium Golden Rakhi",
+    "price": 499,
+    "category": "Premium",
+    "image": "https://i.ibb.co/xxxxxxx/rakhi-golden.jpg",
+    "createdAt": "2026-07-10T12:00:00.000Z"
+  },
+  {
+    "id": 1700000000002,
+    "name": "Silver Rakhi Combo",
+    "price": 799,
+    "category": "Combo",
+    "image": "https://i.ibb.co/yyyyyyy/rakhi-combo.jpg",
+    "createdAt": "2026-07-10T12:30:00.000Z"
+  }
+]
